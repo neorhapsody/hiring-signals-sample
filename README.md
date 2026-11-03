@@ -8,7 +8,7 @@ The full 2026-W44 file has 3,995 rows for 2,384 companies, with 7,022 new roles 
 
 The feed is new: 2026-W44 is its first full weekly edition, so there is no long history yet.
 
-**Full weekly feed:** link coming soon
+**Full weekly feed:** [Hiring Signals Weekly membership on Gumroad](https://fikrimarhan.gumroad.com/l/twnazx), $15/month or $129/year
 
 The full feed is a Gumroad membership: a new file every Monday (Malaysia time) for the previous Monday-to-Sunday week.
 
